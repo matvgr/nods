@@ -1,3 +1,2 @@
 # nods
-NAND on-die simulator
-Uses Python 3
+The how many Nands-On-Die-Simulator uses Python 3
